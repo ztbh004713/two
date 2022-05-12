@@ -22,3 +22,5 @@ with open("write.csv" , "w") as f:    #撰写制式公式开启档案，"r" 读�
 #write 开启的档案进行写入的动作
 #p[0] 为字串，将f.write()中的字串进行+的运算  \n 换行功能
 #with open("write.csv"   csv档:Comma-Separated Values,也稱為字元分隔值,檔案以純文字形式儲存表格資料（數字和文字）。
+
+
